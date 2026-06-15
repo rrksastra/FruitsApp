@@ -1,7 +1,6 @@
-streamlit
-tensorflow
-numpy
-pandas
-plotly
+streamlit==1.38.0
+tensorflow==2.17.1
+numpy==1.26.4
 pillow
 huggingface_hub
+plotly
