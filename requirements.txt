@@ -1,5 +1,7 @@
-streamlit
-numpy
+streamlit==1.38.0
+tensorflow==2.17.1
+numpy==1.26.4
 pillow
-tflite-runtime
 huggingface_hub
+plotly
+h5py
