@@ -65,7 +65,7 @@ st.markdown("""
 @st.cache_resource
 def load_model():
     return tf.keras.models.load_model(
-        "fruit_classifier.h5"
+        "fruit_classifier_deploy.keras"
     )
 
 model = load_model()
